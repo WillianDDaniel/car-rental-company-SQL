@@ -1,0 +1,6 @@
+-- SQLite (TASK 15)
+
+SELECT *
+FROM CARS
+WHERE STATUS = 'Liberado';
+
