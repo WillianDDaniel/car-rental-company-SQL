@@ -1,0 +1,4 @@
+-- SQLite (TASK 21)
+
+SELECT COUNT(*) AS Total_Rentals
+FROM LOCATIONS;
