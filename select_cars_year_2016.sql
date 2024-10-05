@@ -1,0 +1,5 @@
+-- SQLite (TASK 16)
+
+SELECT *
+FROM CARS
+WHERE YEAR = 2016;
